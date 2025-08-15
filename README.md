@@ -4,7 +4,6 @@
 
 A full-stack project management application that enables teams to collaborate on projects, manage tasks, and track progress in real-time. Built with React, Node.js, Express, and MongoDB.
 
-![Project Screenshot](/screenshots/dashboard.png)
 
 ## ✨ Features
 
@@ -172,9 +171,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Author: [Your Name]  
-Email: your.email@example.com  
-Project Link: [https://github.com/yourusername/project-tracker](https://github.com/yourusername/project-tracker)
+Author:Janumala Akhilendra 
+Email: janumalaakhilendra01122000@gmail.com 
+Project Link: [https://github.com/JanumalaAkhilendra/Project-Tracker](https://github.com/JanumalaAkhilendra/Project-Tracker)
 
 ## 🙏 Acknowledgments
 
